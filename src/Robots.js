@@ -1,8 +1,8 @@
 export const Robots = [
   {id:1,
-  name: 'Max Beauvueare',
-  username: 'El Cheapo',
-  email:'ElCheapo@gmail.com'
+  name: 'Ramsey Santos',
+  username: 'Wolfy',
+  email:'WolfythaGreat@gmail.com'
 },
 {id:2,
 name: 'Christine Bama',
@@ -16,8 +16,8 @@ email:'BenzinoThaGod@gmail.com'
 },
 {id:4,
 name: 'Rory Noximus',
-username:'Nox',
-email: 'Noximus@gmail.com'
+username:'Noximus',
+email: 'Nox@gmail.com'
 },
 {id:5,
 name: 'Joe Garcia',
