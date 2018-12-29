@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import 'tachyons';
-import { Robots } from './Robots';
+// import { Robots } from './Robots';
 
 ReactDOM.render(
   <App />
